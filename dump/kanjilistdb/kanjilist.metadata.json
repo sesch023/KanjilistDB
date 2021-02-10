@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"listName":{"$numberInt":"1"}},"name":"listName_1","background":true},{"v":{"$numberInt":"2"},"key":{"owner":{"$numberInt":"1"}},"name":"owner_1","background":true}],"uuid":"8c746fff33bc47c582e7dec5f34d3bd3","collectionName":"kanjilist"}
